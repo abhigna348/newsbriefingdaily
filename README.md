@@ -1,6 +1,6 @@
 # NewsBriefingDaily
 
-ype a topic → get a spoken news summary powered by AI.
+Type a topic → get a spoken news summary powered by AI.
 
 ---
 
